@@ -1,9 +1,9 @@
 
-let BtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja'];
+let BtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja'];
 
-let MtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja'];
+let MtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja',  'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja'];
 
-let PtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja'];
+let PtoG = ['somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja', 'jadeja', 'somu', 'virat', 'rohit', 'jadeja',];
 
 
 // async await
@@ -19,15 +19,25 @@ async function checkAvailability()
 
             if (BtoG.length < 5)
         {
-            resolve("train1 is available");
+                resolve("train1 is available");
+                clearInterval(interval);
+                clearInterval(interval1);
+                window.location.href = "./booking.html";
+                
         }
         else if (MtoG.length < 5)
         {
-            resolve("train2 is available");
+                resolve("train2 is available");
+                clearInterval(interval);
+                clearInterval(interval1);
+                window.location.href = "./booking.html";
         }
         else if (PtoG.length < 5)
         {
-            resolve("train3 is available");
+                resolve("train3 is available");
+                clearInterval(interval);
+                clearInterval(interval1);
+                window.location.href = "./booking.html";
         }
             
 
@@ -53,23 +63,25 @@ function cancelTicket()
     setInterval(function () {  MtoG.pop(); },canceling2*1000)
     setInterval(function () {  PtoG.pop(); },canceling3*1000)
 
-    // let range=Math.floor(Math.random()*3)
-
-    // if (range == 1) {
-    //     PtoG.pop();
-    // }
-    // else if (range == 2) {
-    //     BtoG.pop();
-    // } else if (range == 0)
-    // {
-    //    MtoG.pop(); 
-    // }
-    
-    
-    
-
-    console.log( "cancelation",BtoG,PtoG,MtoG);
+    console.log(`Passsenger available in BtoG train ${BtoG.length}`);
+    console.log(`Passsenger available in MtoG train ${MtoG.length}`);
+    console.log(`Passsenger available in PtoG train ${PtoG.length}`);
     
 }
 
- setInterval(cancelTicket,1000);
+let interval = setInterval(cancelTicket, 1000);
+
+function bookTicket()
+{
+    let canceling1 = Math.ceil(Math.random() * 5);
+    let canceling2 = Math.ceil(Math.random() * 5);
+    let canceling3 = Math.ceil(Math.random() * 5);
+
+    setInterval(function () { BtoG.push("sachin"); },canceling1*1000)
+    setInterval(function () { MtoG.push("sehwag"); },canceling2*1000)
+    setInterval(function () { PtoG.push("rishab"); }, canceling3 * 1000)
+    
+    console.log(BtoG, MtoG, PtoG);
+}
+
+let interval1 = setInterval(bookTicket, 3000);
